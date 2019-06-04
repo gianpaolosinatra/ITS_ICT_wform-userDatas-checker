@@ -1,0 +1,10 @@
+C:\Users\g.sinatra\source\repos\FormRegistrazione\FormRegistrazione\bin\Debug\FormRegistrazione.exe.config
+C:\Users\g.sinatra\source\repos\FormRegistrazione\FormRegistrazione\bin\Debug\FormRegistrazione.exe
+C:\Users\g.sinatra\source\repos\FormRegistrazione\FormRegistrazione\bin\Debug\FormRegistrazione.pdb
+C:\Users\g.sinatra\source\repos\FormRegistrazione\FormRegistrazione\obj\Debug\FormRegistrazione.csprojAssemblyReference.cache
+C:\Users\g.sinatra\source\repos\FormRegistrazione\FormRegistrazione\obj\Debug\FormRegistrazione.Form1.resources
+C:\Users\g.sinatra\source\repos\FormRegistrazione\FormRegistrazione\obj\Debug\FormRegistrazione.Properties.Resources.resources
+C:\Users\g.sinatra\source\repos\FormRegistrazione\FormRegistrazione\obj\Debug\FormRegistrazione.csproj.GenerateResource.cache
+C:\Users\g.sinatra\source\repos\FormRegistrazione\FormRegistrazione\obj\Debug\FormRegistrazione.csproj.CoreCompileInputs.cache
+C:\Users\g.sinatra\source\repos\FormRegistrazione\FormRegistrazione\obj\Debug\FormRegistrazione.exe
+C:\Users\g.sinatra\source\repos\FormRegistrazione\FormRegistrazione\obj\Debug\FormRegistrazione.pdb
